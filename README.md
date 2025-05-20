@@ -44,16 +44,15 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/user-attachments/assets/6fd37633-9b4f-4eac-8ac4-15eadf999d19)
+![image](https://github.com/user-attachments/assets/ceb379e9-8c8f-4815-99d1-cdeee05b04a2)
+
 
 ### 2-Norm of a Matrix
-![image](https://github.com/user-attachments/assets/a08194f5-a8e2-46cd-8d5b-aa9a18c3807c)
-
+![image](https://github.com/user-attachments/assets/1235fe39-7955-4d14-b0cf-791cbfc991d8)
 
 
 ### Infinity Norm of a Matrix
-![image](https://github.com/user-attachments/assets/a8b1cf21-73e1-4348-9c5c-f12a87bbe377)
-
+![image](https://github.com/user-attachments/assets/da61d165-c0f2-4106-b8e8-0a72fa3a480a)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
